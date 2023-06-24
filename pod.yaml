@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: shankysai/kopsfebimage:latest
+          image: shankysai/kopsjuneimage2023:latest
           imagePullPolicy: Always
